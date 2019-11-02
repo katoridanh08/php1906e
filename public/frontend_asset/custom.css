@@ -1,0 +1,64 @@
+.wrapper-content-login
+{
+    width: 500px;
+    margin: 150px auto;
+    padding: 10px;
+}
+.area-dang-ky,.area-dang-nhap
+{
+    width: 600px;
+    margin: 50px auto;
+}
+.logo{
+    width: 150px;
+}
+.top-right-links{
+    padding: 0;
+    margin:0;
+    list-style: none;
+}
+.top-right-links li{
+    float: left;
+}
+.top-right-links li a{
+    padding: 10px;
+}
+.top-right-links li a:hover{
+    text-decoration: none;
+}
+.wrapper-content-menu-ngang{
+    margin-top: 20px;
+}
+.menu-ngang
+{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+
+}
+.cart-link{
+    position: relative;
+}
+.wrapper-content-cart-dropdown{
+    border-radius: 0;
+    width: 400px;
+}
+.wrapper-content-cart{
+    padding: 10px;
+}
+.menu-ngang li{
+    float: left;
+}
+.menu-ngang li  a{
+    padding: 10px;
+    text-decoration: none;
+}
+.menu-ngang li  a.active{
+ background: #C97626;
+    color: #fff;
+}
+.menu-ngang li  a:hover{
+    background: #C97626;
+    color: #fff;
+    text-decoration: none;
+}
